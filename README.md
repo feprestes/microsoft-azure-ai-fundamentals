@@ -15,6 +15,10 @@ Bootcamp DIO Microsoft Azure AI Fundamentals
       <td>01</td>
       <td>Hands-on with Machine Learning at Azure ML</td>
     </tr>
+    <tr>
+      <td>02</td>
+      <td>Facial Recognition and Image Transformation Into Data With Azure ML</td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
