@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "0768b1f3-0e6f-4438-8a92-ee8e7be03b7f",
+    "content-length": "151",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "an astronaut on the moon",
+      "confidence": 0.8221569657325745
+    },
+    "metadata": {
+      "width": 750,
+      "height": 750
+    }
+  }
