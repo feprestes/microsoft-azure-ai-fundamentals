@@ -23,6 +23,11 @@ Bootcamp DIO Microsoft Azure AI Fundamentals
       <td>03</td>
       <td>Sentiment analysis with Language Studio on Azure AI</td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td>Azure Cognitive Search: using AI Search for indexing and data search
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
