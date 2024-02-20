@@ -28,6 +28,11 @@ Bootcamp DIO Microsoft Azure AI Fundamentals
       <td>Azure Cognitive Search: using AI Search for indexing and data search
       </td>
     </tr>
+    <tr>
+      <td>05</td>
+      <td>Exploring AI Resources With Copilot And OpenAI
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>

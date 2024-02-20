@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "c17927a3-d88e-4610-bad0-71074f289c92",
+    "content-length": "160",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a hummingbird flying in the air",
+      "confidence": 0.8503214120864868
+    },
+    "metadata": {
+      "width": 4000,
+      "height": 6000
+    }
+  }

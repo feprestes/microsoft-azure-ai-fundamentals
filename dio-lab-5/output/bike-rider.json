@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "ea9a8e84-db68-4231-94f0-78d85e0b095c",
+    "content-length": "165",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a man riding a bicycle next to a car",
+      "confidence": 0.8299102187156677
+    },
+    "metadata": {
+      "width": 6960,
+      "height": 4640
+    }
+  }
